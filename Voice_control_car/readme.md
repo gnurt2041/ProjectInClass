@@ -6,7 +6,7 @@
 
 | Hardware                        | Count |
 |---------------------------------|-------|
-| `Arduino Uno`                   | 1     |
+| `Arduino Uno R3`                | 1     |
 | `Module Bluetooth HC-05`        | 1     |
 | `DC Gear Motor with weels`      | 4     |
 | `L293D Motor Driver Shield`     | 1     |
