@@ -24,4 +24,4 @@
 
 # How to use
 
-We use a mobile ardroid app '**BT Voice Control for Arduino**' to connect with **module bluetooth HC-05**. This module bluetooth will send the data to **Arduino Uno** by via the **UART** protocol. After the module connect successfully, we can start use voice to control our car. Voice commands include: **Turn Right**, **Turn Left**, **Move Forward**, **Move Backward**. Moreover, we apply multi-harmonic circuits to create two turn signals. These will make the car closer to the real life car
+We use a mobile ardroid app '**BT Voice Control for Arduino**' to connect with **module bluetooth HC-05**. This module bluetooth will send the data to **Arduino Uno** by via the **UART** protocol. After the module connect successfully, we can start use voice to control our car. Voice commands include: **Turn Right**, **Turn Left**, **Move Forward**, **Move Backward**. Moreover, we apply multi-harmonic circuits to create two turn signals. These will make the car closer to the real life car.
