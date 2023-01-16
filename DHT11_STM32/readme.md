@@ -3,7 +3,7 @@
 
 ## Illustration
 
-<img src="https://github.com/gnurt2041/ProjectInClass/blob/main/DHT11_STM32/Image/Diagram.png" width="900">
+<img src="https://github.com/gnurt2041/ProjectInClass/blob/main/DHT11_STM32/Image/Diagram.png" width="700">
 
 ## Hardware info
 
