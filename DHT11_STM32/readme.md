@@ -1,5 +1,5 @@
 ### This project is still in progress!!!
-# Use STM32 to read that data from DHT11/DHT22 then send it to the web and from there forecast the next days
+# Use STM32 to read data(temperature, humidity) from DHT11/DHT22 then send it to the web and from there forecast the next days
 
 ## Illustration
 
