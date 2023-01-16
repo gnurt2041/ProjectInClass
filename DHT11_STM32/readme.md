@@ -15,7 +15,7 @@
 | `LCD 16x2`                      | 1     | Display the data                         |
 | `Module I2C Arduino`            | 1     | Connect the LCD to STM32 microcontroller |
 | `SIM800L`                       | 1     | Connect to the internet                  |
-| `3.9V Lithium-Ion Battery Pack` | 3     | Power to the system                      |
+| `3.9V Lithium-Ion Battery Pack` | 3     | Power                                    |
 
 ## Software Info
 
