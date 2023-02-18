@@ -1,5 +1,5 @@
 ### This project is still in progress!!!
-# Use STM32 to read data(temperature, humidity) from DHT11/DHT22 then send it to the web and from there forecast the next days
+# Use STM32 to read data(temperature, humidity) from DHT11/DHT22 then send it to the web to analysis
 
 ## Illustration
 
@@ -14,8 +14,8 @@
 | `DHT11`                         | 1     | Read temperature and humidity            |
 | `LCD 16x2`                      | 1     | Display the data                         |
 | `Module I2C Arduino`            | 1     | Connect the LCD to STM32 microcontroller |
-| `SIM800L`                       | 1     | Connect to the internet                  |
-| `3.9V Lithium-Ion Battery Pack` | 3     | Power                                    |
+| `ESP8266`                       | 1     | Connect to the internet                  |
+| `3.7V Lithium-Ion Battery Pack` | 3     | Power                                    |
 
 ## Software Info
 
