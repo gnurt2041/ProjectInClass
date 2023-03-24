@@ -1,5 +1,4 @@
-### This project is still in progress!!!
-# Use STM32 to read data(temperature, humidity) from DHT11/DHT22 then send it to the web to analysis
+# Use STM32F103C8T6 to read data(temperature, humidity) from DHT11 then send it to the web to analysis
 
 ## Illustration
 
@@ -27,6 +26,10 @@
 | `ST-Link STM32` | Load the code to STM32        |
 | `Proteus`       | Circuit design and Simulation |
 
-## Circuit Schematic : 
-## Result:
+## Circuit Schematic :
+<img align='center' src="https://github.com/gnurt2041/ProjectInClass/blob/main/DHT11_STM32/Image/Circuit%20Diagram.png" width="500">
+
+## Result: 
+<img align='center' src="https://github.com/gnurt2041/ProjectInClass/blob/main/DHT11_STM32/Image/result.png" width="500">
+
 ## How to use:
