@@ -31,5 +31,7 @@
 
 ## Result: 
 <img align='center' src="https://github.com/gnurt2041/ProjectInClass/blob/main/DHT11_STM32/Image/result.png" width="500">
+<img align='center' src="https://github.com/gnurt2041/ProjectInClass/blob/main/DHT11_STM32/Image/web1.png" width="500">
+<img align='left' src="https://github.com/gnurt2041/ProjectInClass/blob/main/DHT11_STM32/Image/web2.png" width="450"><img align='left' src="https://github.com/gnurt2041/ProjectInClass/blob/main/DHT11_STM32/Image/web3.png" width="450">
 
-## How to use:
+
